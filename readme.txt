@@ -1,6 +1,7 @@
 gpt_query allows for a user to query a given database in natural language
 
 basic setup:
+- create a 'config.py' file and add all variables needed in the main file
 - install python dependencies
 - add the ChatGPT api key
 - add the credentials to connect to the sql database of your choice
